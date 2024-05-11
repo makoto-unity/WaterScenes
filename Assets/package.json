@@ -1,0 +1,11 @@
+{
+    "name": "jp.onaca.waterscenes",
+    "displayName": "HDRP Water Sample Scenes",
+    "author": { "name": "Onacasoft Ltd.,", "url": "https://onaca.jp" },
+    "version": "1.0.0",
+    "unity": "2023.1",
+    "description": "This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.",
+    "keywords": [ "HDRP" ],
+    "category": "Scene",
+    "dependencies": {}
+}
