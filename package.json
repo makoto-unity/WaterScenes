@@ -1,0 +1,17 @@
+{
+  "name": "jp.onaca.unity.WaterScenes",
+  "version": "1.0.0",
+  "displayName": "HDRP Water Sample Scenes",
+  "description": "This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.
+
+You can clone the repository using tools like Git, Github Desktop, or Sourcetree. You can also download a zipped version using the green button on Github
+
+3 scenarios are available in the project.",
+  "unity": "2023.1",
+  "unityRelease": "1f1",
+  "author": {
+    "name": "Makoto Ito",
+    "email": "makoto@onaca.jp",
+    "url": "https://onaca.jp"
+  }
+}
